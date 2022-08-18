@@ -1,1 +1,3 @@
 # Air_Quality_Project
+## Aim of Project
+This project is to read air quality related data from a csv file, and do requested calculations depending on the valid data we get from the file. It is hard to filter and calculate plenty of data, especially when there are multiple filter requirements and calculations to deal with. For example, AirQuality.csv has nearly 10,000 lines of data and there are ten different calculations to handle. This project can read and process this huge amount of data in a second, which improves data processing efficiency. With the help of data structure, OOD and simple user interaction, instead of doing the calculations manually, user can get the results in a much more convenient way.
